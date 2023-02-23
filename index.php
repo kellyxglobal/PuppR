@@ -1,4 +1,4 @@
-iCTYPE html>
+CTYPE html>
 <html>
   <head>
     <title>PuppR</title>
@@ -25,5 +25,3 @@ iCTYPE html>
     </footer>
   </body>
 </html>
-
-
